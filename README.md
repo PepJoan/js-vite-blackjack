@@ -1,3 +1,3 @@
 # BlackJack Vite
 
-Mi primer proyecto
+Mi primer proyecto, pendiente de completar.
